@@ -1,9 +1,9 @@
 # Title of the project - Webpage using Json db
-   ### Description -
-       The web page basically takes the Employee Input and store's it in the Json database.
+   ## Description -
+   The web page basically takes the Employee Input and store's it in the Json database.
 
 ## Why JsonPowerDB?  
-  It is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development.
+   It is a Real-time, High Performance, Lightweight and Simple to Use, Rest API based Multi-mode DBMS. JsonPowerDB has ready to use API for Json document DB, RDBMS, Key-value     DB, GeoSpatial DB and Time Series DB functionality. JPDB supports and advocates for true serverless and pluggable API development.
  
  
 
@@ -21,6 +21,10 @@
 
 ## Project status 
    **Completed**
+   
+## Scope of use 
+   The code can be used in our day to day life for storing the information with very ease and not having any issue of creating schema before storing the data.
+  
 
 
 ## Release History 
@@ -31,5 +35,6 @@
 ### 0.1.2
      * Included JPDB common js
      * Renamed executeCommand() in saveEmployee() method to executeCommandAtGivenBaseUrl()
+     * Deleted the Function defintion for createPUTRequest()
      
      
